@@ -9,8 +9,7 @@ function Intro() {
                 I am a student attending the Community College of Philadelphia seeking to obtain a career as a software engineer. 
                 Recognized for demonstrating a natural aptitude for strategic planning and process improvement, I have a verifiable history of achieving maximum output and minimal expenditures. 
                 Professional focal points include programming languages such as Python, Java, HTML & CSS. Delivering superior administration on the latter areas of expertise requires exceptional utilization of effective communication and organization skills.
-            <br />
-                Colleagues describe me as a progressive, driven, down-to-earth, technical, analytical, and managerial expert who can be relied on to deliver significant results.</p>
+            </p>
         </div>
     )
 }
