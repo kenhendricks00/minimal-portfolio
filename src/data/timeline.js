@@ -11,7 +11,7 @@ export default [
         title: 'Highschool',
         duration: '4 years',
         details:
-            "I attended New Foundations Charter Highschool, a college prep school, there I took an Engineering class where it was reinforced that I loved the idea of creating something that is useful to people, ultimately earning a 94 in this class",
+            "I attended New Foundations Charter Highschool, a college prep school, there I took an Engineering class where it was reinforced that I loved the idea of creating something that is useful to people, ultimately earning a 94 in this class.",
     },
     {
         year: '2011',
