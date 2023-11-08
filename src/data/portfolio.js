@@ -10,5 +10,11 @@ export default [
         imgUrl: '/assets/partycord.jpg',
         stack: ['Node.js', 'Discord.js', 'HTML', 'Bootstrap'],
         link: 'https://partycord.xyz',
+    },
+    {
+        title: 'More Projects',
+        imgUrl: '/assets/projects.jpg',
+        stack: ['Fun', 'Useful', 'Interesting'],
+        link: 'https://kenhendricks.me/projects',
     }
 ]
