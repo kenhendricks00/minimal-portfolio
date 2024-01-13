@@ -11,6 +11,12 @@ export default [
         stack: ['Node.js', 'Discord.js', 'HTML', 'Bootstrap'],
         link: 'https://partycord.xyz',
     },
+        {
+        title: '🔗 FixEmbed - Discord Bot',
+        imgUrl: '/assets/fixembed.jpg',
+        stack: ['Python', 'Discord.py'],
+        link: 'https://github.com/kenhendricks00/FixEmbedBot',
+    },
     {
         title: '🧰 More Projects',
         imgUrl: '/assets/projects.jpg',
