@@ -9,7 +9,7 @@
 <p>The app is made responsive through the handy TailwindCSS classes. Some theme colors and the font are defined in the <code>tailwind.config.js</code> file.</p>
 
 <h2>Storage</h2>
-<p>The data for the portfolio and the timeline sections are stored in <code>src/data/data</code> folder. Therefore, in every section the Component maps to the data array a ComponentItem each time, so as to construct the whole section.</p>
+<p>The data for the portfolio and the timeline sections are stored in <code>src/data</code> folder. Therefore, in every section the Component maps to the data array a ComponentItem each time, so as to construct the whole section.</p>
 
 <h2>Contact Form</h2>
 <p>The data from the form submission is sent to the <a href="https://getform.io">getform.io</a> service.</p>
